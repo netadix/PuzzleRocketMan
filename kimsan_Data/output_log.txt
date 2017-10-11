@@ -1,0 +1,113 @@
+Initialize engine version: 5.6.3p2 (b3d7a6428558)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     2151 MB
+    Driver:   21.20.16.4727
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Public\Documents\Unity Projects\kimsan_remote\kimsanAnimation_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\kimsan_remote\kimsanAnimation_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\kimsan_remote\kimsanAnimation_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\kimsan_remote\kimsanAnimation_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\kimsan_remote\kimsanAnimation_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\kimsan_remote\kimsanAnimation_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\kimsan_remote\kimsanAnimation_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\kimsan_remote\kimsanAnimation_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\kimsan_remote\kimsanAnimation_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\kimsan_remote\kimsanAnimation_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.060 seconds
+Platform assembly: C:\Users\Public\Documents\Unity Projects\kimsan_remote\kimsanAnimation_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Public\Documents\Unity Projects\kimsan_remote\kimsanAnimation_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.491700 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.846642 ms
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 477.
+Total: 1.917732 ms (FindLiveObjects: 0.519173 ms CreateObjectMapping: 0.093262 ms MarkObjects: 1.172010 ms  DeleteObjects: 0.130642 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.033106 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 713.
+Total: 3.598722 ms (FindLiveObjects: 0.190300 ms CreateObjectMapping: 0.138194 ms MarkObjects: 3.174699 ms  DeleteObjects: 0.092884 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.250849 ms
+
+Unloading 128 unused Assets to reduce memory usage. Loaded Objects now: 464.
+Total: 3.700291 ms (FindLiveObjects: 0.107232 ms CreateObjectMapping: 0.087598 ms MarkObjects: 0.804247 ms  DeleteObjects: 2.699324 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.196931 ms
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 443.
+Total: 1.260742 ms (FindLiveObjects: 0.087598 ms CreateObjectMapping: 0.057014 ms MarkObjects: 0.917143 ms  DeleteObjects: 0.196719 ms)
+
+GSSA FindAsync Response:
+{
+  "values": [
+    {
+      "value": [
+        1,
+        "",
+        "17,130510,井田美彦\n10,90590,ルパン二世\n6,60830,sasaki\n4,46250,いだよしひこ\n3,36420,シャア\n3,36220,ガンタンク\n3,34430,名無し\n3,34430,Marx\n3,34430,uphydn\n5,28160,東八郎\n2,23130,金正恩\n1,12690,平松しんじ\n1,12690,Idaten\n1,12240,本田真凛\n1,12150,Alanis\n1,9590,うえはらあつひろ\n1,5000,noname11\n2,4900,noname2\n3,4800,noname3\n4,4700,noname4\n5,4600,noname5\n6,4500,noname6\n7,4400,noname7\n8,4300,noname8\n9,4200,noname9\n10,4100,noname10\n11,4000,noname11\n12,3900,noname12\n13,3800,noname13\n14,3700,noname14\n15,3600,noname15\n16,3500,noname16\n17,3400,noname17\n18,3300,noname18\n19,3200,noname19\n20,3100,noname20\n21,3000,noname21\n22,2900,noname22\n23,2800,noname23\n24,2700,noname24\n25,2600,noname25\n26,2500,noname26\n27,2400,noname27\n28,2300,noname28\n29,2200,noname29\n30,2100,noname30\n31,2000,noname31\n32,1900,noname32\n33,1800,noname33\n34,1700,noname34\n",
+        1507704884722
+      ],
+      "$oi$": 2
+    }
+  ],
+  "keys": [
+    "rank",
+    "",
+    "name",
+    "createTime"
+  ]
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GSSA FindAsync Response:
+{
+  "values": [
+    {
+      "value": [
+        1,
+        "",
+        "17,130510,井田美彦\n10,90590,ルパン二世\n6,60830,sasaki\n4,46250,いだよしひこ\n3,36420,シャア\n3,36220,ガンタンク\n3,34430,名無し\n3,34430,Marx\n3,34430,uphydn\n5,28160,東八郎\n2,23130,金正恩\n1,12690,平松しんじ\n1,12690,Idaten\n1,12240,本田真凛\n1,12150,Alanis\n1,9590,うえはらあつひろ\n1,5000,noname11\n2,4900,noname2\n3,4800,noname3\n4,4700,noname4\n5,4600,noname5\n6,4500,noname6\n7,4400,noname7\n8,4300,noname8\n9,4200,noname9\n10,4100,noname10\n11,4000,noname11\n12,3900,noname12\n13,3800,noname13\n14,3700,noname14\n15,3600,noname15\n16,3500,noname16\n17,3400,noname17\n18,3300,noname18\n19,3200,noname19\n20,3100,noname20\n21,3000,noname21\n22,2900,noname22\n23,2800,noname23\n24,2700,noname24\n25,2600,noname25\n26,2500,noname26\n27,2400,noname27\n28,2300,noname28\n29,2200,noname29\n30,2100,noname30\n31,2000,noname31\n32,1900,noname32\n33,1800,noname33\n34,1700,noname34\n",
+        1507704884722
+      ],
+      "$oi$": 2
+    }
+  ],
+  "keys": [
+    "rank",
+    "",
+    "name",
+    "createTime"
+  ]
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GSSA SaveAsync Response:
+{
+  "$oi$": "2"
+}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.491202 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 470.
+Total: 1.246016 ms (FindLiveObjects: 0.135551 ms CreateObjectMapping: 0.058147 ms MarkObjects: 0.987751 ms  DeleteObjects: 0.063055 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 9f08 -> priority: 1 
+  Thread -> id: 9694 -> priority: 1 
